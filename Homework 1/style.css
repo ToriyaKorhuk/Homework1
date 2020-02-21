@@ -1,0 +1,34 @@
+img{
+    width: 350px;
+    height: 350px;
+    border: ridge cornflowerblue;
+}
+div{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: green;
+}
+h2{
+    text-align: right ;
+    color: deeppink;
+    font-weight: normal 500;
+}
+h3{ text-align: center;
+    color: gold ;
+    size: 14px;
+    font-weight: inherit;
+    border: ridge cornflowerblue;
+}
+p{
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: khaki
+}
+
+
+
+}
+
+}
